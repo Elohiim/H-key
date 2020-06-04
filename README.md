@@ -13,7 +13,7 @@ you dont want to install any apps, just run the Script in termux and choose what
 
 1. First you need to Update the Termu.
      `apt update && apt upgrade`
-2.  `git clone 
+2.  `git clone https://github.com/MoRniNg-stAr-Eloy/H-key.git`
 3.  `cd H-Keys/`
 4.  `ls`
 5. Run the requirement script First
