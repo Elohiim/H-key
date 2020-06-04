@@ -53,7 +53,7 @@ Email :-  morning_star_08@protonmail.com
 
 ## Lisence
 
-H-Keys  is released under the [MIT license](LICENSE.txt).
+H-Keys  is released under the [gnu license](LICENSE.txt).
 
 ### Video 
 
