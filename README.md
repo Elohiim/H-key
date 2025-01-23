@@ -51,9 +51,6 @@ github :-  https://github.com/MoRniNg-stAr-Eloy
 
 Email :-  morning_star_08@protonmail.com
 
-## Lisence
-
-H-Keys  is released under the [gnu license](LICENSE.txt).
 
 ### Video 
 
