@@ -43,13 +43,8 @@ You can `VolUp+Q` to bring up an extra key bar, but you can also use combination
 * `VolUp+U`: underscore "_"
 * `VolUp+V`: Volume control
 
-## Author
 
-Created by :-  MoRniNg-stAr
 
-github :-  https://github.com/MoRniNg-stAr-Eloy
-
-Email :-  morning_star_08@protonmail.com
 
 
 ### Video 
